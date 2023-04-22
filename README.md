@@ -1,5 +1,6 @@
-# Voron 2.4
-
+# Voron 2.4 Tool Changer
+This is a magnetic tool changer developed for the Voron
+- Modifications can be found in STLs folder
 
 ![Image of Voron 2.4](http://vorondesign.com/images/voron2.4.jpg)
 
