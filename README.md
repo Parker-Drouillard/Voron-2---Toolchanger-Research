@@ -7,6 +7,14 @@ The goal of this research project was to investigate the viability of integratin
 
 This project helped to aid design decisions for our MK2 and MK3 architectures.
 
+## Special Thanks
+Special thanks goes out to our research team at St. Clair College here in Windsor, Ontario. The team did a stellar job at delivering their objectives & their research will continue to be important for our ongoing research and development. Thank you to Kevin Roy, Claire Prendi, John Lopez, and Quinton for their efforts in this project.
+
+## Further Information
+We hope that you benefit from the open-source nature of this project. 3D printing is an awesome community & we can't wait to see what happens with this project. 
+
+If you wish to contact our team directly, please reach out to us at info@pepcorp.ca 
+
 ![Image of Voron 2.4 Skate](https://i.imgur.com/E4NAAo9.jpg)
 
 ![Image of Voron 2.4 Flange](https://i.imgur.com/z6otKlg.jpg)
