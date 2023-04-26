@@ -15,7 +15,7 @@ We hope that you benefit from the open-source nature of this project. 3D printin
 
 If you wish to contact our team directly, please reach out to us at info@pepcorp.ca 
 
-![Image of Voron 2.4 Skate](https://i.imgur.com/E4NAAo9.jpg)
+![Image of Voron 2.4 Main](https://i.imgur.com/1lS2wVN.jpg)
 
 ![Image of Voron 2.4 Flange](https://i.imgur.com/z6otKlg.jpg)
 
