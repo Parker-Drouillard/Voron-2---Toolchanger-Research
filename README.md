@@ -8,7 +8,7 @@ The goal of this research project was to investigate the viability of integratin
 This project helped to aid design decisions for our MK2 and MK3 architectures.
 
 ## Special Thanks
-Special thanks goes out to our research team at St. Clair College here in Windsor, Ontario. The team did a stellar job at delivering their objectives & their research will continue to be important for our ongoing research and development. Thank you to Kevin Roy, Claire Prendi, John Lopez, and Quinton for their efforts in this project.
+Special thanks goes out to our research team at St. Clair College here in Windsor, Ontario. The team did a stellar job at delivering their objectives & their research will continue to be important for our ongoing research and development. Thank you to Kevin Roy, Claire Prendi, John Lopez, and Quinton Gignac for their efforts in this project.
 
 ## Further Information
 We hope that you benefit from the open-source nature of this project. 3D printing is an awesome community & we can't wait to see what happens with this project. 
